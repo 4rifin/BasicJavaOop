@@ -1,3 +1,3 @@
-# Study basic java Object Orianted Program (OOP)
-This is project java Object Orianted Program (OOP)
+# Study basic java Object oriented programming (OOP)
+This is project java Object Oriented Programming (OOP)
 
